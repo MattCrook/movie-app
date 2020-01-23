@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "release date": "07/13/2010"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "release date": "10/26/2014"
+    },
+    {
+      "id": 3,
+      "tite": "John Wick",
+      "release date": "10/24/2014"
+    }
+  ]
+}
